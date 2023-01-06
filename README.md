@@ -41,7 +41,7 @@ I'm a graduate student at from Santa Clara University 🏛, majoring is Computer
 <span><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="TF" width="40px" height="40px"/></span>&nbsp;
 </details>
 
-<h2>⚡&nbsp;Github Stats</h2>
+<!-- <h2>⚡&nbsp;Github Stats</h2>
 <p align = "center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tonymathen&show_icons=true&locale=en&hide_border=true" alt="tonymathen"/>
-</p>
+</p> -->
