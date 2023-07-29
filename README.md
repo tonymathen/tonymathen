@@ -5,12 +5,12 @@
 
 ### Glad to see you here! &nbsp;
 
-I'm a graduate student at from Santa Clara University 🏛, majoring is Computer Science and Engineering 🎓. I'm a self-motivated learner, who's always willing to learn new technologies 👀, and leverage them to solve real-life problems 💡.
+I'm an aspiring software engineer who recently graduated from . I'm a self-motivated learner, who's always willing to learn new technologies 👀, and leverage them to solve real-life problems 💡.
 
 ### More about me: 
 - 🚀 Deeply passionate about backend engineering and distributed systems
 - 🌱 Currently learning React.JS and learning more about distributed systems.
-- 📝 Checkout my [Resume](https://drive.google.com/file/d/1axhrSwkOGxvaMw4vqTxVAOMrzec6M3LF/view?usp=sharing).
+- 📝 Checkout my [Resume]([https://drive.google.com/file/d/1axhrSwkOGxvaMw4vqTxVAOMrzec6M3LF/view?usp=sharing](https://drive.google.com/file/d/1Emn633Y-CnZBUmS-JlQRCzdz8Ghry5CN/view?usp=sharing)).
 
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 
