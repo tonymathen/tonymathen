@@ -5,7 +5,7 @@
 
 ### Glad to see you here! &nbsp;
 
-I'm an aspiring software engineer who recently graduated from . I'm a self-motivated learner, who's always willing to learn new technologies 👀, and leverage them to solve real-life problems 💡.
+I'm an aspiring software engineer, who recently graduated with a Master's degree in Computer Science from Santa Clara University. I'm a self-motivated learner, who's always willing to learn new technologies 👀, and leverage them to solve real-life problems 💡.
 
 ### More about me: 
 - 🚀 Deeply passionate about backend engineering and distributed systems
